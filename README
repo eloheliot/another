@@ -1,5 +1,25 @@
-another repository
+Another Repository
 ---
-textures and other projects for Second Life content creation
+[Human] Avatar skins for Second Life.
+
+Most recent (current) branch is "g" ("master" gets merged with "g" on a semi-weekly basis--depending on changes).
 
 
+Contents
+---
+/       - README, COPYING, and .gitignore
+/src    - Source directory
+/src/ai - Adobe Illustrator format files
+
+
+Notes
+---
+Licensed under a BSD license. See COPYING for more information.
+
+Adobe Illustrator format files work with Adobe Illustrator CS(1).
+
+Contains CMFF Second Life Clothing & Skin Templates. http://goodies.onrez.com/shop/chipmidnight/
+
+Second Life(R) and Linden Lab(tm) are trademarks of Linden Research, Inc.
+
+Another and Eloh Eliot are not affiliated with or sponsored by Linden Research. 
