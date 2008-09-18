@@ -1,8 +1,9 @@
 Another Repository
 ---
-[Human] Avatar skins for Second Life.
+[Human] Avatar skins for Second Life (SL). 
 
-Most recent (current) branch is "g" ("master" gets merged with "g" on a semi-weekly basis--depending on changes).
+Most recent (current) branch is "g" ("master" gets merged with "g"
+on a semi-weekly basis--depending on changes).
 
 
 Contents
@@ -12,14 +13,28 @@ Contents
 /src/ai - Adobe Illustrator format files
 
 
-Notes
+Terms & Usage
 ---
+(Adapted from Sezmra Svaarog: http://sezmra.com/?page_id=7 )
+
+ * You are free to use these files to create items for any grid. 
+ * You are free to _alter_ these files to create new items for
+   resale.
+ * You are _not_ encouraged to resell these files or skins as is.
+ * Credit would be nice!
+
 Licensed under a BSD license. See COPYING for more information.
 
+
+Notes
+---
 Adobe Illustrator format files work with Adobe Illustrator CS(1).
 
-Contains CMFF Second Life Clothing & Skin Templates. http://goodies.onrez.com/shop/chipmidnight/
+Contains CMFF Second Life Clothing & Skin Templates.
+http://goodies.onrez.com/shop/chipmidnight/
 
-Second Life(R) and Linden Lab(tm) are trademarks of Linden Research, Inc.
+Second Life(R) and Linden Lab(R) are trademarks of Linden
+Research, Inc.
 
-Another and Eloh Eliot are not affiliated with or sponsored by Linden Research. 
+Another and Eloh Eliot are not affiliated with or sponsored by
+Linden Research. 
